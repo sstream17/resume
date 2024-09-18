@@ -8,11 +8,19 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
 
       - name: Convert Resume
-      - uses: docker://pandoc/latex:2.9
+        uses: docker://pandoc/latex:2.9
         with:
           args: >-  # args on next lines
             --standalone
             resume.tex
             --output=README.md
+
+      - name: Commit and Push README.md
+        run: |
+          git add README.md
+          git commit -m "Auto-generated resume update"
+          git push
