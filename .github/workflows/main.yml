@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'resume.tex'
-      - 'resume.cls'
+      - 'resume.sty'
 
 jobs:
   convert_via_pandoc:
