@@ -13,10 +13,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Copy CLS Files
-        run: |
-          cp resume.cls /texmf/
-
       - name: Convert Resume
         uses: docker://pandoc/latex:2.9
         with:
