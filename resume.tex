@@ -23,7 +23,37 @@
 
 \documentclass[
 	11pt, % Default font size, can use 10pt, 11pt or 12pt
-]{resume} % Use the resume class
+]{article} % Use the resume class
+
+\usepackage{resume}
+
+%----------------------------------------------------------------------------------------
+%	REQUIRED PACKAGES AND MISC CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\usepackage[parfill]{parskip} % Remove paragraph indentation
+
+\usepackage{array} % Required for bold tabular columns
+
+\usepackage{ifthen} % Required for ifthenelse statements
+
+\usepackage{graphicx} % Required for including images
+
+\pagestyle{empty} % Suppress headers and footers on all pages
+
+%----------------------------------------------------------------------------------------
+%	MARGINS
+%----------------------------------------------------------------------------------------
+
+\usepackage{geometry} % Required for adjusting page dimensions and margins
+
+\geometry{
+	top=0.6in, % Top margin
+	bottom=0.6in, % Bottom margin
+	left=0.75in, % Left margin
+	right=0.75in, % Right margin
+	%showframe, % Uncomment to show how the type block is set on the page
+}
 
 \usepackage{nunito} % Use the Nunito font
 
@@ -44,6 +74,8 @@
 %----------------------------------------------------------------------------------------
 
 \begin{document}
+
+\printname
 
 \begin{rSection}{Skills}
 
