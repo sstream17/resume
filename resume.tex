@@ -30,6 +30,9 @@
 %----------------------------------------------------------------------------------------
 %	REQUIRED PACKAGES AND MISC CONFIGURATIONS
 %----------------------------------------------------------------------------------------
+\usepackage[latin]{babel}
+
+\usepackage{enumitem}
 
 \usepackage[parfill]{parskip} % Remove paragraph indentation
 
@@ -75,21 +78,24 @@
 \printname
 
 \begin{rSection}{Skills}
+	\begin{hyphenrules}{nohyphenation}
 
-	\textbf{Programming Languages:} TypeScript/JavaScript, React, CSS/SASS, C\#, MySQL \\
-	\textbf{Technologies:} Git, .NET, tiered architecture, no-SQL databases, Entity Framework, REST APIs \\
-	\textbf{Debugging:} Jest and NUnit unit testing, pair programming, performance and network analysis \\
-	\textbf{Design:} Accessibility principles, technical design writing, user-centered design practices
+		\begin{rSubsection}{}{}{}{}
+			\item \textbf{Languages:} TypeScript/JavaScript, React, React Native/Expo, CSS/SASS, HTML, C\#, MySQL
+			\item \textbf{Technologies:} Git, .NET, REST APIs, tiered architecture, no-SQL databases, Entity Framework
+			\item \textbf{Debugging:} Jest and NUnit unit testing, pair programming, performance and network analysis, Postman API testing
+		\end{rSubsection}
 
+	\end{hyphenrules}
 \end{rSection}
 
 \begin{rSection}{Experience}
 
 	\begin{rSubsection}{Epic Systems}{June 2021 - Present}{Software Developer}{Verona, WI}
-		\item Design and build accesible React components for millions of users following WCAG best practices
-		\item Conduct code reviews, reducing issues by 3x in later stages
+		\item Iteratively develop reusable React components, collaborating with key stakeholders and UX designers
+		\item Conduct code reviews, reducing issues found in later stages by 3x
+		\item Provide expert git support, make decisions on the git strategies for the team, and develop CLI tools
 		\item Ensure compliance with regulations and enhance user experience in patient demographics collection
-		\item Provide git support, make decisions on the git strategies for the team, and develop CLI tools
 		\item Maintain a bespoke form validation framework, improving performance and developer experience
 		\item Organize and coordinate biweekly developer meeting for more than 300 developers
 		\item Mentor new developers and provide guidance and support to developers across the division
@@ -98,8 +104,14 @@
 	\begin{rSubsection}{Assurity Life Insurance}{May 2019 - June 2021}{Assosciate Software Developer}{Lincoln, NE}
 		\item Created .NET Core web services following modern service-oriented principles
 		\item Expedited development time by automating day-to-day processes and rearchitecting git repositories
-		\item Set up builds and releases for continuous deployment in Azure DevOps
+		\item Set up CICD builds and releases in Azure DevOps
 		\item Planned and presented product demonstrations upon their completion
+	\end{rSubsection}
+
+	\begin{rSubsection}{SURGE Database - University Capstone Project}{2019}{Development Manager}{Lincoln, NE}
+		\item Working in a team of 6 students, designed and developed a web application which aggregated unrest data from multiple sources
+		\item Created multiple .NET Core REST APIs to cache data in on-premise database servers
+		\item Built a React web client with the Google Maps SDK, allowing users to plot millions of unrest events
 	\end{rSubsection}
 
 \end{rSection}
@@ -107,13 +119,11 @@
 \begin{rSection}{Personal Projects}
 
 	\begin{rSubsection}{Wordle Clone}{August 2023 - Present}{}{}
-		\item Implemented various iterations of a wordle game in Android, Svelte, Flutter, and React Native
-		\item Created a multi-platform game with high color contrast, color blindness support, and font readability
+		\item Implemented various iterations of a cross-platform game in Android, Svelte, Flutter, and React Native
 	\end{rSubsection}
 
 	\begin{rSubsection}{Wedding Website}{October 2020 - November 2023}{}{}
-		\item Designed a website with SvelteKit which informs guests about the events and details of my wedding
-		\item Implemented an RSVP service using Azure Functions and Twilio SendGrid
+		\item Designed a website with SvelteKit, using Azure Functions and Twilio SendGrid as an RSVP backend
 	\end{rSubsection}
 
 \end{rSection}
