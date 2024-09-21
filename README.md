@@ -22,7 +22,7 @@ CSS/SASS, HTML, C\#, MySQL
 databases, Entity Framework
 
 **Debugging:** Jest and NUnit unit testing, pair programming,
-performance and network analysis, Postman API testing
+performance and network analysis, screenreader testing
 
 **EXPERIENCE**
 
@@ -30,7 +30,7 @@ performance and network analysis, Postman API testing
 
 $\cdot$=0em
 
-Iteratively develop reusable React components, collaborating with key
+Iteratively develop accessible UI components, collaborating with key
 stakeholders and UX designers
 
 Conduct code reviews, reducing issues found in later stages by 3x
