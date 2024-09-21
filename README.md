@@ -3,7 +3,7 @@
 **Spencer Stream**
 
 sprewstream\@gmail.com $\cdot$\
-Verona, WI <https://www.linkedin.com/in/spencer-stream/>\
+Madison, WI <https://www.linkedin.com/in/spencer-stream/>\
 
 ------------------------------------------------------------------------
 
@@ -11,18 +11,14 @@ Verona, WI <https://www.linkedin.com/in/spencer-stream/>\
 
 ------------------------------------------------------------------------
 
-nohyphenation
-
-$\cdot$=0em
-
-**Languages:** TypeScript/JavaScript, React, React Native/Expo,
-CSS/SASS, HTML, C\#, MySQL
-
-**Technologies:** Git, .NET, REST APIs, tiered architecture, no-SQL
-databases, Entity Framework
-
+**Programming Languages:** TypeScript/JavaScript, React, CSS/SASS, C\#,
+MySQL\
+**Technologies:** Git, .NET, tiered architecture, no-SQL databases,
+Entity Framework, REST APIs\
 **Debugging:** Jest and NUnit unit testing, pair programming,
-performance and network analysis, Postman API testing
+performance and network analysis\
+**Design:** Accessibility principles, technical design writing,
+user-centered design practices
 
 **EXPERIENCE**
 
@@ -30,16 +26,16 @@ performance and network analysis, Postman API testing
 
 $\cdot$=0em
 
-Iteratively develop reusable React components, collaborating with key
-stakeholders and UX designers
+Design and build accesible React components for millions of users
+following WCAG best practices
 
-Conduct code reviews, reducing issues found in later stages by 3x
-
-Provide expert git support, make decisions on the git strategies for the
-team, and develop CLI tools
+Conduct code reviews, reducing issues by 3x in later stages
 
 Ensure compliance with regulations and enhance user experience in
 patient demographics collection
+
+Provide git support, make decisions on the git strategies for the team,
+and develop CLI tools
 
 Maintain a bespoke form validation framework, improving performance and
 developer experience
@@ -58,20 +54,9 @@ principles
 Expedited development time by automating day-to-day processes and
 rearchitecting git repositories
 
-Set up CICD builds and releases in Azure DevOps
+Set up builds and releases for continuous deployment in Azure DevOps
 
 Planned and presented product demonstrations upon their completion
-
-$\cdot$=0em
-
-Working in a team of 6 students, designed and developed a web
-application which aggregated unrest data from multiple sources
-
-Created multiple .NET Core REST APIs to cache data in on-premise
-database servers
-
-Built a React web client with the Google Maps SDK, allowing users to
-plot millions of unrest events
 
 **PERSONAL PROJECTS**
 
@@ -79,13 +64,30 @@ plot millions of unrest events
 
 $\cdot$=0em
 
-Implemented various iterations of a cross-platform game in Android,
-Svelte, Flutter, and React Native
+Implemented various iterations of a wordle game in Android, Svelte,
+Flutter, and React Native
+
+Created a multi-platform game with high color contrast, color blindness
+support, and font readability
 
 $\cdot$=0em
 
-Designed a website with SvelteKit, using Azure Functions and Twilio
-SendGrid as an RSVP backend
+Designed a website with SvelteKit which informs guests about the events
+and details of my wedding
+
+Implemented an RSVP service using Azure Functions and Twilio SendGrid
+
+**SKILLS**
+
+------------------------------------------------------------------------
+
+**Programming Languages:** TypeScript/JavaScript, React, CSS/SASS, C\#\
+**Technologies:** Git, .NET, tiered architecture, no-SQL databases,
+Entity Framework, REST APIs\
+**Debugging:** Jest and NUnit unit testing, pair programming,
+performance and network analysis\
+**Design:** Accessibility principles, technical design writing,
+user-centered design practices
 
 **EDUCATION**
 
