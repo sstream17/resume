@@ -1,9 +1,6 @@
-------------------------------------------------------------------------
-
 **Spencer Stream**
 
-sprewstream\@gmail.com $\cdot$\
-Verona, WI <https://www.linkedin.com/in/spencer-stream/>\
+sprewstream\@gmail.com $\cdot$ \
 
 ------------------------------------------------------------------------
 
@@ -15,14 +12,13 @@ nohyphenation
 
 $\cdot$=0em
 
-**Languages:** TypeScript/JavaScript, React, React Native/Expo,
-CSS/SASS, HTML, C\#, MySQL
+**Frontend:** TypeScript/JavaScript, React, React Native/Expo, CSS/SASS,
+HTML, Svelte, Blazor
 
-**Technologies:** Git, .NET, REST APIs, tiered architecture, no-SQL
-databases, Entity Framework
+**Backend:** C\#, .NET, REST APIs, Entity Framework, MySQL, NoSQL,
+Azure, Firebase, Python
 
-**Debugging:** Jest and NUnit unit testing, pair programming,
-performance and network analysis, Postman API testing
+**Technologies:** Git, CI/CD, Jest and NUnit unit tests
 
 **EXPERIENCE**
 
@@ -35,7 +31,7 @@ stakeholders and UX designers
 
 Conduct code reviews, reducing issues found in later stages by 3x
 
-Provide expert git support, make decisions on the git strategies for the
+Provide expert Git support, make decisions on the Git strategies for the
 team, and develop CLI tools
 
 Ensure compliance with regulations and enhance user experience in
@@ -56,7 +52,7 @@ Created .NET Core web services following modern service-oriented
 principles
 
 Expedited development time by automating day-to-day processes and
-rearchitecting git repositories
+rearchitecting Git repositories
 
 Set up CICD builds and releases in Azure DevOps
 
@@ -70,8 +66,11 @@ application which aggregated unrest data from multiple sources
 Created multiple .NET Core REST APIs to cache data in on-premise
 database servers
 
-Built a React web client with the Google Maps SDK, allowing users to
-plot millions of unrest events
+Built React web client with the Google Maps SDK, allowing users to plot
+millions of unrest events
+
+Developed user authentication framework using PBKDF2 algorithm and SQL
+user database
 
 **PERSONAL PROJECTS**
 
