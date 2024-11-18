@@ -80,10 +80,9 @@
 	\ifthenelse{\equal{#1}{}}{
 		\vspace{0.5em}
 	}{
-		\textbf{#1} % Bold company name and date to the right
+		\textbf{#1}% Bold company name and date to the right
 		\ifthenelse{\equal{#3}{}}{}{ % If the third parameter is empty, don't output the job title and location line
-			% Job title and location
-			$\cdot$ \textit{#3} $\cdot$ \textit{#4}
+			$\cdot$ \textit{#3} $\cdot$ \textit{#4} % Job title and location
 		}
 		\hfill {#2}
 		\smallskip % Vertical whitespace
