@@ -12,13 +12,13 @@ nohyphenation
 
 $\cdot$=0em
 
-**Frontend:** TypeScript/JavaScript, React, React Native/Expo, CSS/SASS,
-HTML, Svelte, Blazor
+**Frontend:** TypeScript/JavaScript, React, Redux, React Native/Expo,
+CSS/SASS, HTML, Svelte, Blazor
 
-**Backend:** C\#, .NET, REST APIs, Entity Framework, MySQL, NoSQL,
-Azure, Firebase, Python
+**Backend:** C\#, .NET, Python, REST APIs, MySQL, NoSQL, ORM
 
-**Technologies:** Git, CI/CD, Jest and NUnit unit tests
+**Technologies:** Git, CI/CD, DNS, Azure, Firebase, Jest and NUnit unit
+tests, Android, shell scripting
 
 **EXPERIENCE**
 
@@ -54,7 +54,7 @@ principles
 Expedited development time by automating day-to-day processes and
 rearchitecting Git repositories
 
-Set up CICD builds and releases in Azure DevOps
+Set up CI/CD builds and releases in Azure DevOps
 
 Planned and presented product demonstrations upon their completion
 
@@ -71,6 +71,16 @@ millions of unrest events
 
 Developed user authentication framework using PBKDF2 algorithm and SQL
 user database
+
+$\cdot$=0em
+
+Designed, maintained, and updated Python pipelines for assembling RNA
+data into an accurate transcriptome
+
+Automated job submissions using Bash scripts and Pegasus WMS
+
+Created and updated JavaScript websites for the lab, focusing on
+improving user experience
 
 **PERSONAL PROJECTS**
 
@@ -90,6 +100,6 @@ SendGrid as an RSVP backend
 
 ------------------------------------------------------------------------
 
-**University of Nebraska-Lincoln**\
-Bachelor of Science in Software Engineering\
-Minor in Mathematics
+$\cdot$=0em
+
+Minor in Mathematics, Distinction
