@@ -76,13 +76,16 @@
 %	WORK EXPERIENCE FORMATTING
 %----------------------------------------------------------------------------------------
 
-\newenvironment{rSubsection}[4]{ % 4 parameters: company name, year(s) employed, job title and location
+\newenvironment{rSubsection}[4]{ % 4 parameters: job title, year(s) employed, company name, and location
 	\ifthenelse{\equal{#1}{}}{
 		\vspace{0.5em}
 	}{
-		\textbf{#1}% Bold company name and date to the right
-		\ifthenelse{\equal{#3}{}}{}{ % If the third parameter is empty, don't output the job title and location line
-			$\cdot$ \textit{#3} $\cdot$ \textit{#4} % Job title and location
+		\textbf{#1}% Bold job title and date to the right
+		\ifthenelse{\equal{#3}{}}{}{ % If the third parameter is empty, don't output the company name
+			$\cdot$ \textit{#3}% Company name
+		}
+		\ifthenelse{\equal{#4}{}}{}{% If the fourth parameter is empty, don't output the location
+			$\cdot$ \textit{#4}% Location
 		}
 		\hfill {#2}
 		\smallskip % Vertical whitespace
