@@ -7,28 +7,20 @@ on:
       - 'resume.sty'
 
 jobs:
-  build_latex:
+  convert_via_pandoc:
     runs-on: ubuntu-22.04
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GH_PAT }}
-      
-      - name: Compile LaTeX document
-        uses: dante-ev/latex-action@latest
-        with:
-          root_file: resume.tex
 
-  convert_via_pandoc:
-    runs-on: ubuntu-22.04
-    steps:
       - name: Convert Resume
-        uses: docker://pandoc/core:3.5
+        uses: docker://pandoc/latex:2.9
         with:
           args: >-  # args on next lines
             --standalone
-            resume.pdf
+            resume.tex
             --output=README.md
 
       - name: Commit and Push README.md
