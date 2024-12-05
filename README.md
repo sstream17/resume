@@ -13,12 +13,13 @@ nohyphenation
 $\cdot$=0em
 
 **Frontend:** TypeScript/JavaScript, React, Redux, React Native/Expo,
-CSS/SASS, HTML, Svelte, Blazor
+Svelte, CSS/SASS, HTML
 
-**Backend:** C\#, .NET, Python, REST APIs, MySQL, NoSQL, ORM
+**Backend:** C\#, .NET, Python, RESTful API services, Azure, Firebase,
+MySQL, NoSQL, ORM
 
-**Technologies:** Git, CI/CD, DNS, Azure, Firebase, Jest and NUnit unit
-tests, Android, shell scripting
+**Technologies:** Git, CI/CD, DNS, Docker, Android, cross-platform
+development, shell scripting
 
 **EXPERIENCE**
 
@@ -26,33 +27,33 @@ tests, Android, shell scripting
 
 $\cdot$=0em
 
-Iteratively develop reusable React components, collaborating with key
-stakeholders and UX designers
+Lead the development of new features and fixes for the MyChart patient
+portal application
 
-Conduct code reviews, reducing issues found in later stages by 3x
+Own the vision of patient demographics collection to enhance overall
+functionality
 
-Provide expert Git support, make decisions on the Git strategies for the
-team, and develop CLI tools
+Engineer reusable React components, collaborating with designers to
+promote accessible user interaction
 
-Ensure compliance with regulations and enhance user experience in
-patient demographics collection
+Continuously improve backend APIs, enabling integration across
+application teams for shared services
 
-Maintain a bespoke form validation framework, improving performance and
-developer experience
+Organize cross-application standups, coordinating feature development
+and followups
 
-Organize and coordinate biweekly developer meeting for more than 300
-developers
+Develop CLI tools to expedite common Git commands and project builds
 
-Mentor new developers and provide guidance and support to developers
-across the division
+Mentor new developers and provide guidance to developers across the
+division
 
 $\cdot$=0em
 
-Created .NET Core web services following modern service-oriented
-principles
+Built .NET Core RESTful web services following modern
+tiered-architecture principles
 
-Expedited development time by automating day-to-day processes and
-rearchitecting Git repositories
+Accelerated development by automating tasks and adopting a monorepo Git
+strategy
 
 Set up CI/CD builds and releases in Azure DevOps
 
@@ -60,27 +61,27 @@ Planned and presented product demonstrations upon their completion
 
 $\cdot$=0em
 
-Working in a team of 6 students, designed and developed a web
-application which aggregated unrest data from multiple sources
+Led a team of 6 students to develop a web application which aggregated
+data from multiple sources
 
-Created multiple .NET Core REST APIs to cache data in on-premise
-database servers
+Architected multiple .NET Core REST APIs to cache data in self-hosted
+MySQL servers
 
-Built React web client with the Google Maps SDK, allowing users to plot
-millions of unrest events
+Built a React web client with the Google Maps SDK, allowing users to
+plot millions of events
 
-Developed user authentication framework using PBKDF2 algorithm and SQL
-user database
+Developed user authentication framework using PBKDF2 credential hashing
+algorithm
 
 $\cdot$=0em
 
-Designed, maintained, and updated Python pipelines for assembling RNA
-data into an accurate transcriptome
+Deployed Python ETL pipelines for assembling RNA data into an accurate
+transcriptome
 
 Automated job submissions using Bash scripts and Pegasus WMS
 
-Created and updated JavaScript websites for the lab, focusing on
-improving user experience
+Enhanced lab websites to showcase research projects and enable
+authenticated user posts
 
 **PERSONAL PROJECTS**
 
@@ -90,6 +91,11 @@ $\cdot$=0em
 
 Implemented various iterations of a cross-platform game in Android,
 Svelte, Flutter, and React Native
+
+$\cdot$=0em
+
+Developed a music curation service using an LLM AI and YouTube APIs to
+generate playlists from user comments
 
 $\cdot$=0em
 
