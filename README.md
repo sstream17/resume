@@ -39,8 +39,8 @@ promote accessible user interaction
 Continuously improve backend APIs, enabling integration across
 application teams for shared services
 
-Organize cross-application standups, coordinating feature development
-and followups
+Organize cross-application stand-ups, coordinating feature development
+and follow-ups
 
 Develop CLI tools to expedite common Git commands and project builds
 
