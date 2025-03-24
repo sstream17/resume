@@ -27,16 +27,16 @@ development, shell scripting
 
 $\cdot$=0em
 
-Lead the development of new features and fixes for the MyChart patient
-portal application
+Lead the development of scalable features for 22 million monthly users
+of the MyChart patient portal application
 
-Own the vision of patient demographics collection to enhance overall
-functionality
+Own the vision of multiple functional areas, enhancing functionality and
+providing expert code review
 
 Engineer reusable React components, collaborating with designers to
 promote accessible user interaction
 
-Continuously improve backend APIs, enabling integration across
+Continuously improve .NET backend APIs, enabling integration across
 application teams for shared services
 
 Organize cross-application stand-ups, coordinating feature development
