@@ -4,6 +4,11 @@ sprewstream\@gmail.com $\cdot$ \
 
 ------------------------------------------------------------------------
 
+Software engineer with 5+ years building scalable, accessible
+applications. React expert passionate about learning, mentoring, clean
+design, and improving user experiences through high-impact, maintainable
+code.
+
 **EXPERIENCE**
 
 ------------------------------------------------------------------------
@@ -42,6 +47,8 @@ skill development across the division
 Coordinated recurring meetings for more than 300 developers to
 facilitate knowledge sharing and updates
 
+------------------------------------------------------------------------
+
 $\cdot$=0em
 
 Built .NET Core RESTful web services following modern
@@ -57,19 +64,7 @@ and adopting a monorepo Git strategy
 
 Set up CI/CD builds and releases in Azure DevOps
 
-$\cdot$=0em
-
-Led a team of 6 students to develop a web application which aggregated
-data from multiple sources
-
-**Web Portal:** Built a React web client with the Google Maps SDK,
-allowing users to plot millions of events
-
-**Database:** Architected multiple .NET Core REST APIs to cache data in
-self-hosted MySQL servers
-
-Developed user authentication framework using PBKDF2 credential hashing
-algorithm
+------------------------------------------------------------------------
 
 $\cdot$=0em
 
@@ -124,3 +119,6 @@ development, shell scripting
 $\cdot$=0em
 
 Minor in Mathematics, Distinction
+
+**Capstone:** Led development of a web application using big data and
+social science models to detect and forecast social unrest events
