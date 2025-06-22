@@ -18,14 +18,16 @@ $\cdot$=0em
 Lead the development of scalable features for 22 million monthly users
 of the MyChart patient portal application
 
-**AI-Powered Build Analysis:** Created agentic AI pipeline to suggest
-customer build improvements
+**AI-Powered Settings Analysis:** Created agentic AI pipeline to suggest
+customer configuration improvements
 
 Organized cross-application stand-ups, coordinating feature development
 and follow-ups
 
-**React Forms:** Engineered reusable React components, collaborating
-with designers to create a seamless UI
+**Demographics Forms Framework:** Engineered reusable React components
+for patient data collection
+
+Collaborated with designers to ensure a consistent, seamless UI
 
 Designed an interactive address suggestion component, enhancing user
 experience
@@ -33,8 +35,11 @@ experience
 Applied modern WCAG and accessibility principles to ensure a
 user-friendly solution
 
-Continuously improved .NET backend APIs, enabling integration across
-application teams for shared services
+**E-Signature Documents:** Owned security enhancements to .NET backend
+APIs
+
+Architected standardized BLOB token authorization methods to enhance
+developer integration
 
 **Developer Tools:** Developed CLI tools to expedite common Git commands
 and project builds
@@ -104,7 +109,7 @@ nohyphenation
 $\cdot$=0em
 
 **Frontend:** TypeScript/JavaScript, React, Redux, React Native/Expo,
-Svelte, CSS/SASS, HTML
+Next.js, Svelte, CSS/SASS, HTML
 
 **Backend:** C\#, .NET, Python, RESTful API services, Azure, Firebase,
 MySQL, NoSQL, ORM
