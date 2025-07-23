@@ -114,11 +114,13 @@ $\cdot$=0em
 **Frontend:** TypeScript/JavaScript, React, Redux, React Native/Expo,
 Next.js, Svelte, CSS/SASS, HTML
 
+**UI/UX:** Responsive Design, Web Accessibility (WCAG), Storybook, Figma
+
 **Backend:** C\#, .NET, Python, RESTful API services, Azure, Firebase,
 MySQL, NoSQL, ORM
 
-**Technologies:** Git, CI/CD, DNS, Docker, Android, cross-platform
-development, shell scripting
+**Tools:** Git, CI/CD, TDD, unit testing, DNS, Docker, cross-platform
+development
 
 **EDUCATION**
 
