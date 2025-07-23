@@ -18,11 +18,14 @@ $\cdot$=0em
 Lead the development of scalable features for 22 million monthly users
 of the MyChart patient portal application
 
-**AI-Powered Settings Analysis:** Created agentic AI pipeline to suggest
-customer configuration improvements
+**AI-Powered Patient Check-in:** Built conversational agents for
+demographics collection and document signing
 
-Organized cross-application stand-ups, coordinating feature development
-and follow-ups
+Developed data gathering logic for demographics workflows
+
+Orchestrated agent flows for multi-step check-in tasks
+
+Aligned agent design with accessibility and user experience standards
 
 **Demographics Forms Framework:** Engineered reusable React components
 for patient data collection
