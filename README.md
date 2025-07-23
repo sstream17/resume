@@ -19,7 +19,7 @@ Lead the development of scalable features for 22 million monthly users
 of the MyChart patient portal application
 
 **AI-Powered Patient Check-in:** Built conversational agents for
-demographics collection and document signing
+pre-visit preparation
 
 Developed data gathering logic for demographics workflows
 
