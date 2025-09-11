@@ -29,12 +29,12 @@
 %	NAME AND ADDRESS COMMANDS
 %----------------------------------------------------------------------------------------
 
-\newcommand{\name}[1]{\renewcommand{\name}{#1}} % Defines the \name command to set the user's name
+\newcommand{\setname}[1]{\def\@name{#1}} % Defines the \name command to set the user's name
 
 \newcommand{\addressSep}{$\cdot$} % Set default address separator to a diamond symbol
 
 % The \address command is used to set the first, second and third address lines (the last 2 are optional)
-\newcommand{\contactinfo}[1]{\renewcommand{\contactinfo}{#1}}
+\newcommand{\setcontactinfo}[1]{\def\@contactinfo{#1}}
 
 % \printaddress is used to style an address line (provided in the single parameter to the command)
 \newcommand{\printaddress}[1]{
@@ -46,12 +46,12 @@
 
 % \printname is used to output the user's name in a large size
 \newcommand{\printname}{
-	\begingroup
-		{\huge\bfseries\name}
-		\hfill
-		\printaddress{\contactinfo} \\
-	\endgroup
-	\hrule
+    \begingroup
+        {\huge\bfseries\@name}
+        \hfill
+        \printaddress{\@contactinfo} \par
+    \endgroup
+    \hrule
 }
 
 %----------------------------------------------------------------------------------------
