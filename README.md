@@ -1,7 +1,3 @@
-**Spencer Stream**
-
-sprewstream\@gmail.com $\cdot$ \
-
 ------------------------------------------------------------------------
 
 Software engineer with 5+ years building scalable, accessible
